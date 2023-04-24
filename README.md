@@ -9,11 +9,14 @@ Matlab
 ## Directory Structure
 
 data_dir: Directory containing the fMRI data and physiological data extracted from DICOM files.
+
 code_dir: Directory containing the scripts for physiological noise correction.
+
 fsl_dir: Directory containing the FSL tools.
 
 ## Usage
 Set the directory paths for data_dir, code_dir, and fsl_dir in the script.
+
 Specify the subject IDs in the subject_list array.
 
 Run the script in the terminal:
